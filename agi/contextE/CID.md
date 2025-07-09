@@ -1,5 +1,5 @@
 ---
-title: The Web of Choices: How Causal Influence Prompting Weaves Safety into LLM Agents
+title: The Web of Choices：How Causal Influence Prompting Weaves Safety into LLM Agents
 
 ---
 
