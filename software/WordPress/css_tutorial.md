@@ -1,4 +1,6 @@
-# CSS 简明教程：为 WordPress 主题定制（增强版）
+---
+title: CSS 简明教程【为 WordPress 主题定制（增强版）】
+---
 
 ## 目标
 - 掌握 CSS 基础，能够修改 WordPress 主题的字体、颜色、布局等样式。
