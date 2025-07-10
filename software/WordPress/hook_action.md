@@ -1,5 +1,6 @@
 ---
-title: ### WordPress 中的 Hook 和 Action 的异同比较分析
+
+title: WordPress 中的 Hook 和 Action 的异同比较分析
 
 ---
 
